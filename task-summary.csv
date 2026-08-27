@@ -1,0 +1,4 @@
+task_id,round,models_observed,passes,fails,timeouts,normal_completions,observed_pass_rate_label,difficulty_interpretation
+C08,1,7,0,7,5,2,0/7,Observed outcomes only; not a population estimate
+C09,1,7,0,7,3,4,0/7,Observed outcomes only; not a population estimate
+C10,2,7,1,6,2,5,1/7,Observed outcomes only; not a population estimate

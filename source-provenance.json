@@ -1,0 +1,159 @@
+{
+  "schema": "socratbench-code-v0.2-public-source-provenance-v1",
+  "path_policy": "logical references only; local absolute paths excluded",
+  "sources": [
+    {
+      "source_id": "round1/round1-summary.json",
+      "sha256": "65db9026c518c4bded533ee948d4977f8fed68f76cc3aa068558c4abbb434def",
+      "bytes": 164278,
+      "role": "authoritative_input"
+    },
+    {
+      "source_id": "round1/round1-execution-manifest.json",
+      "sha256": "322645046d8bc920d7293665a83560559c173a80bd7543e9227542b6e8fd55de",
+      "bytes": 6815,
+      "role": "authoritative_input"
+    },
+    {
+      "source_id": "round1/round1-late-entry-extensions/granite4.2-8b/round1-seven-model-derived.json",
+      "sha256": "0d674f0c13bf62eb1ade34c4dde0a9b8f2a4f0e7ed792bd8064f1f97ebcbef8a",
+      "bytes": 6179,
+      "role": "authoritative_input"
+    },
+    {
+      "source_id": "round1/round1-late-entry-extensions/granite4.2-8b/round1-granite-late-entry-summary.json",
+      "sha256": "3142fda5bf32dcd895392af2b2429d4a2bdb873571d8f977bef3345ddf5406f2",
+      "bytes": 1733,
+      "role": "authoritative_input"
+    },
+    {
+      "source_id": "round1/round1-late-entry-extensions/granite4.2-8b/preservation-validation.json",
+      "sha256": "02e697ef03c52e6d8d4e8fd79d367f2ab0b60042a71561715d8125de5dc822dd",
+      "bytes": 6109,
+      "role": "authoritative_input"
+    },
+    {
+      "source_id": "round2/certification/round2-c10-final-20260827/aggregate.json",
+      "sha256": "0ff583cc2fb4eaf491df3a4ddd9365822ed091e67d143ef492ea29b5c77e403b",
+      "bytes": 9460,
+      "role": "authoritative_input"
+    },
+    {
+      "source_id": "round2-independent-audit/independent-round2-audit.md",
+      "sha256": "4019e46bb1bcd50900cf357cb98f04e00c76afc539c6638c9e2507b7f9ec7c9c",
+      "bytes": 7466,
+      "role": "authoritative_input"
+    },
+    {
+      "source_id": "round2-independent-audit/independent-round2-audit.json",
+      "sha256": "022e1ca7d08311ca8299176244583a6e17f23e66e14f14826052d5c3b7204655",
+      "bytes": 130498,
+      "role": "authoritative_input"
+    },
+    {
+      "source_id": "round1/round1-results/R002-M01-C08.json",
+      "sha256": "eb24ca47688976942c64dc38c84c8fd5be53305fcf1af513fbeeb476b7e42d5f",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R008-M01-C09.json",
+      "sha256": "ce0a28c075a0ee571d25c38bd1a5499a53b793ed1e67cfab20a715c7324e82e8",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round2/certification/round2-c10-runs-v3/R2-C10-001-M01/official-evidence",
+      "sha256": "e4ae4b7dcbddbfbeb341bb22bdf99b0fc780472c13a0186b8e08d6e2f932d3d5",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R009-M02-C08.json",
+      "sha256": "402e815e7228e5aae1ea4d240bb150c7cb647c225a0909db5dc61ff93f8873b2",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R003-M02-C09.json",
+      "sha256": "d3daca8e503f1d230185771b01860af74786bd16512f30585dc2a182857ce594",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round2/certification/round2-c10-runs-v3/R2-C10-002-M02/official-evidence",
+      "sha256": "80efb826fb7ed6f88c1e8139bd38ef05fbf92e714c268fcc98a1a0ca8fd51566",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R004-M03-C08.json",
+      "sha256": "c84290efe611cfad41b4926efdc8856716bac5a8b11f24cd249297a01dbf1816",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R010-M03-C09.json",
+      "sha256": "7e4b4d430a7d31402c1ddc3ed3396913a068c2ec0820a87563bb0c74db1ae139",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round2/certification/round2-c10-runs-v3/R2-C10-003-M03/official-evidence",
+      "sha256": "9e38b223ff8bf86a2748a5b7905f0424bcfd20083926360ff1b1a0da159bebe5",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R011-M04-C08.json",
+      "sha256": "776e9d15c30cd06fa5ad7228155a9a919b66b78cc0bacd88822ac01c0c06d970",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R005-M04-C09.json",
+      "sha256": "11693ab4b3c0bf4020ca990f34184104a2cb6ad5daa376d3da9c864aecc7ee37",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round2/certification/round2-c10-runs-v3/R2-C10-004-M04/official-evidence",
+      "sha256": "f7f872f8b77d0aebb71bbbe719fb59d0b73c4074df94a57e8a05eea1174a7110",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R006-M05-C08.json",
+      "sha256": "898b51033860cdc582aeaf43c9160538eabeac51fdc3a0e41e196ffc06e1783c",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R012-M05-C09.json",
+      "sha256": "fc02ba04706b0b77007387e14e7173dae3fec5cd5b20757b4455e8c3546f6a56",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round2/certification/m05-pre-vector-policy-amendment-v8-m05-closure",
+      "sha256": "e199714e8e731024ff8b497341c386c66c6a1f2db198cf8f9cfd2f4138e84575",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R013-M06-C08.json",
+      "sha256": "16624f37eb72ff7d7f4fcb56cf3e739ac91660c42f166e398ba6dd32e3246ac4",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1/round1-results/R007-M06-C09.json",
+      "sha256": "cb3a24fad952db984bc7969d64355e9926041b1fd8360da60dbe82af9ca5a489",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round2/certification/round2-c10-runs-v3/R2-C10-006-M06/official-evidence",
+      "sha256": "af3da2e7e87014745bb5d016ee8171216689f8a7a2cb08f55e408b255ea8b19c",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1-extension/granite4.2-8b/results/R1-EXT-GRANITE-C08-A01.json",
+      "sha256": "13f117159a080cd497048c4d06258ad936e0cba806e9a057063bbd5296f3b342",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round1-extension/granite4.2-8b/results/R1-EXT-GRANITE-C09-A01.json",
+      "sha256": "cbf92d6751bc6e00bc7844bbc066e6cb35d1f4b413f05ec8eb6209cb7813b385",
+      "role": "authoritative_result"
+    },
+    {
+      "source_id": "round2/certification/round2-c10-runs-v3/R2-C10-007-M07/official-evidence",
+      "sha256": "ffe882a95ce1908eb76fa18a2955c652fd924cfeca5135db2cc65ccf99db2ee5",
+      "role": "authoritative_result"
+    }
+  ]
+}

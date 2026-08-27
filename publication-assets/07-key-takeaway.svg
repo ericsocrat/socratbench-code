@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1350" viewBox="0 0 2400 1350">
+<rect width="2400" height="1350" fill="#08111F"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif} .title{font-weight:750} .mono{font-family:Cascadia Mono,Consolas,monospace}</style>
+<text x="120" y="120" font-size="30" fill="#4CC2FF" font-weight="750" text-anchor="start" class="">KEY TAKEAWAY</text>
+<text x="120" y="275" font-size="78" fill="#F6F8FB" font-weight="800" text-anchor="start" class="">10 outcomes changed</text>
+<text x="120" y="373" font-size="78" fill="#F6F8FB" font-weight="800" text-anchor="start" class="">the candidate snapshot.</text>
+<text x="120" y="471" font-size="78" fill="#F6F8FB" font-weight="800" text-anchor="start" class="">Only 1 passed every gate.</text>
+<rect x="120" y="670" width="2160" height="320" rx="32" fill="#111D31" stroke="#263B5C" stroke-width="2"/>
+<text x="190" y="790" font-size="102" fill="#36D487" font-weight="850" text-anchor="start" class="">10</text>
+<text x="400" y="790" font-size="48" fill="#F6F8FB" font-weight="750" text-anchor="start" class="">normal completions still failed</text>
+<text x="190" y="910" font-size="32" fill="#A9B6C9" font-weight="550" text-anchor="start" class="">Observed across 21 local model-task outcomes.</text>
+<text x="120" y="1110" font-size="34" fill="#F6F8FB" font-weight="700" text-anchor="start" class="">This does not establish a universally best coding model.</text>
+<text x="120" y="1160" font-size="31" fill="#A9B6C9" font-weight="500" text-anchor="start" class="">It shows why repository-level verification changes the story.</text>
+<line x1="120" y1="1260" x2="2280" y2="1260" stroke="#263852" stroke-width="2"/>
+<text x="120" y="1308" font-size="25" fill="#A9B6C9" font-weight="400" text-anchor="start" class="">Local three-task benchmark · RTX 3070 Ti 8GB · 32GB RAM</text>
+<text x="2280" y="1308" font-size="25" fill="#A9B6C9" font-weight="600" text-anchor="end" class="">SocratBench Code v0.2</text>
+</svg>

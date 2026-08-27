@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1350" viewBox="0 0 2400 1350">
+<rect width="2400" height="1350" fill="#08111F"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif} .title{font-weight:750} .mono{font-family:Cascadia Mono,Consolas,monospace}</style>
+<text x="120" y="105" font-size="28" fill="#4CC2FF" font-weight="700" text-anchor="start" class="">OBSERVED OUTCOMES</text>
+<text x="120" y="190" font-size="64" fill="#F6F8FB" font-weight="760" text-anchor="start" class="title">Model × task matrix</text>
+<text x="120" y="250" font-size="32" fill="#A9B6C9" font-weight="400" text-anchor="start" class="">Official PASS, FAIL, or TIMEOUT — infrastructure-invalid pre-score incidents excluded</text>
+<text x="1100" y="330" font-size="38" fill="#F6F8FB" font-weight="750" text-anchor="middle" class="">C08</text>
+<text x="1530" y="330" font-size="38" fill="#F6F8FB" font-weight="750" text-anchor="middle" class="">C09</text>
+<text x="1960" y="330" font-size="38" fill="#F6F8FB" font-weight="750" text-anchor="middle" class="">C10</text>
+<rect x="120" y="368" width="730" height="86" rx="18" fill="#111D31" stroke="none" stroke-width="0"/>
+<rect x="120" y="368" width="12" height="86" rx="6" fill="#55B7FF" stroke="none" stroke-width="0"/>
+<text x="160" y="424" font-size="30" fill="#55B7FF" font-weight="800" text-anchor="start" class="">M01</text>
+<text x="260" y="424" font-size="31" fill="#F6F8FB" font-weight="650" text-anchor="start" class="">GPT-OSS 20B</text>
+<rect x="920" y="368" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1100" y="424" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="1350" y="368" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1530" y="424" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="1780" y="368" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1960" y="424" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="120" y="474" width="730" height="86" rx="18" fill="#111D31" stroke="none" stroke-width="0"/>
+<rect x="120" y="474" width="12" height="86" rx="6" fill="#55D6A8" stroke="none" stroke-width="0"/>
+<text x="160" y="530" font-size="30" fill="#55D6A8" font-weight="800" text-anchor="start" class="">M02</text>
+<text x="260" y="530" font-size="31" fill="#F6F8FB" font-weight="650" text-anchor="start" class="">GLM-4.7-Flash</text>
+<rect x="920" y="474" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1100" y="530" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="1350" y="474" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1530" y="530" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="1780" y="474" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1960" y="530" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="120" y="580" width="730" height="86" rx="18" fill="#111D31" stroke="none" stroke-width="0"/>
+<rect x="120" y="580" width="12" height="86" rx="6" fill="#F7B955" stroke="none" stroke-width="0"/>
+<text x="160" y="636" font-size="30" fill="#F7B955" font-weight="800" text-anchor="start" class="">M03</text>
+<text x="260" y="636" font-size="31" fill="#F6F8FB" font-weight="650" text-anchor="start" class="">North Mini Code 1.0</text>
+<rect x="920" y="580" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1100" y="636" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="1350" y="580" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1530" y="636" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="1780" y="580" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1960" y="636" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="120" y="686" width="730" height="86" rx="18" fill="#111D31" stroke="none" stroke-width="0"/>
+<rect x="120" y="686" width="12" height="86" rx="6" fill="#A78BFA" stroke="none" stroke-width="0"/>
+<text x="160" y="742" font-size="30" fill="#A78BFA" font-weight="800" text-anchor="start" class="">M04</text>
+<text x="260" y="742" font-size="31" fill="#F6F8FB" font-weight="650" text-anchor="start" class="">Ornith 1.5 9B</text>
+<rect x="920" y="686" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1100" y="742" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="1350" y="686" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1530" y="742" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="1780" y="686" width="360" height="86" rx="18" fill="#36D487" stroke="none" stroke-width="0"/>
+<text x="1960" y="742" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">PASS</text>
+<rect x="120" y="792" width="730" height="86" rx="18" fill="#111D31" stroke="none" stroke-width="0"/>
+<rect x="120" y="792" width="12" height="86" rx="6" fill="#F17BAA" stroke="none" stroke-width="0"/>
+<text x="160" y="848" font-size="30" fill="#F17BAA" font-weight="800" text-anchor="start" class="">M05</text>
+<text x="260" y="848" font-size="31" fill="#F6F8FB" font-weight="650" text-anchor="start" class="">Laguna XS 2.1</text>
+<rect x="920" y="792" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1100" y="848" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="1350" y="792" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1530" y="848" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="1780" y="792" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1960" y="848" font-size="23" fill="#08111F" font-weight="800" text-anchor="middle" class="">POLICY FAIL</text>
+<rect x="120" y="898" width="730" height="86" rx="18" fill="#111D31" stroke="none" stroke-width="0"/>
+<rect x="120" y="898" width="12" height="86" rx="6" fill="#43D5E7" stroke="none" stroke-width="0"/>
+<text x="160" y="954" font-size="30" fill="#43D5E7" font-weight="800" text-anchor="start" class="">M06</text>
+<text x="260" y="954" font-size="31" fill="#F6F8FB" font-weight="650" text-anchor="start" class="">Qwen3-Coder 30B</text>
+<rect x="920" y="898" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1100" y="954" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="1350" y="898" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1530" y="954" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="1780" y="898" width="360" height="86" rx="18" fill="#F26868" stroke="none" stroke-width="0"/>
+<text x="1960" y="954" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">FAIL</text>
+<rect x="120" y="1004" width="730" height="86" rx="18" fill="#111D31" stroke="none" stroke-width="0"/>
+<rect x="120" y="1004" width="12" height="86" rx="6" fill="#AAB5C5" stroke="none" stroke-width="0"/>
+<text x="160" y="1060" font-size="30" fill="#AAB5C5" font-weight="800" text-anchor="start" class="">M07</text>
+<text x="260" y="1060" font-size="31" fill="#F6F8FB" font-weight="650" text-anchor="start" class="">IBM Granite 4.2 8B</text>
+<rect x="920" y="1004" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1100" y="1060" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="1350" y="1004" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1530" y="1060" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<rect x="1780" y="1004" width="360" height="86" rx="18" fill="#F5A524" stroke="none" stroke-width="0"/>
+<text x="1960" y="1060" font-size="28" fill="#08111F" font-weight="800" text-anchor="middle" class="">TIMEOUT</text>
+<text x="120" y="1200" font-size="34" fill="#F6F8FB" font-weight="700" text-anchor="start" class="">Only one green cell: Ornith 1.5 9B on C10.</text>
+<line x1="120" y1="1260" x2="2280" y2="1260" stroke="#263852" stroke-width="2"/>
+<text x="120" y="1308" font-size="25" fill="#A9B6C9" font-weight="400" text-anchor="start" class="">Local supervised benchmark · 3 tasks · 7 models · one attempt per model/task</text>
+<text x="2280" y="1308" font-size="25" fill="#A9B6C9" font-weight="600" text-anchor="end" class="">SocratBench Code v0.2</text>
+</svg>

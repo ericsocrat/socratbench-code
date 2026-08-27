@@ -1,0 +1,3 @@
+id,severity,scope,description,material,publication_action
+D01,LOW,M06/C10 metadata,Stale execution-plan-v4 artifact label; byte hash binds the correct v9 plan.,False,Disclose in provenance; do not edit frozen evidence.
+D02,LOW,M07/C10 metadata,Stale execution-plan-v4 artifact label; byte hash binds the correct v10 plan.,False,Disclose in provenance; do not edit frozen evidence.

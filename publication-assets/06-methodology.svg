@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1350" viewBox="0 0 2400 1350">
+<rect width="2400" height="1350" fill="#08111F"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif} .title{font-weight:750} .mono{font-family:Cascadia Mono,Consolas,monospace}</style>
+<text x="120" y="105" font-size="28" fill="#4CC2FF" font-weight="700" text-anchor="start" class="">METHODOLOGY</text>
+<text x="120" y="190" font-size="64" fill="#F6F8FB" font-weight="760" text-anchor="start" class="title">Same operating constraints, task-specific verifiers</text>
+<text x="120" y="250" font-size="32" fill="#A9B6C9" font-weight="400" text-anchor="start" class="">A local supervised benchmark designed around repository outcomes</text>
+<rect x="120" y="360" width="660" height="260" rx="30" fill="#111D31" stroke="#243752" stroke-width="2"/>
+<text x="162" y="452" font-size="58" fill="#4CC2FF" font-weight="800" text-anchor="start" class="">1</text>
+<text x="162" y="515" font-size="27" fill="#F6F8FB" font-weight="750" text-anchor="start" class="">VALID ATTEMPT</text>
+<text x="162" y="570" font-size="24" fill="#A9B6C9" font-weight="500" text-anchor="start" class="">per model × task</text>
+<rect x="860" y="360" width="660" height="260" rx="30" fill="#111D31" stroke="#243752" stroke-width="2"/>
+<text x="902" y="452" font-size="58" fill="#4CC2FF" font-weight="800" text-anchor="start" class="">65,536</text>
+<text x="902" y="515" font-size="27" fill="#F6F8FB" font-weight="750" text-anchor="start" class="">CONTEXT</text>
+<text x="902" y="570" font-size="24" fill="#A9B6C9" font-weight="500" text-anchor="start" class="">token target</text>
+<rect x="1600" y="360" width="660" height="260" rx="30" fill="#111D31" stroke="#243752" stroke-width="2"/>
+<text x="1642" y="452" font-size="58" fill="#4CC2FF" font-weight="800" text-anchor="start" class="">1,800s</text>
+<text x="1642" y="515" font-size="27" fill="#F6F8FB" font-weight="750" text-anchor="start" class="">TASK BUDGET</text>
+<text x="1642" y="570" font-size="24" fill="#A9B6C9" font-weight="500" text-anchor="start" class="">30 minutes</text>
+<rect x="120" y="690" width="660" height="260" rx="30" fill="#111D31" stroke="#243752" stroke-width="2"/>
+<text x="162" y="782" font-size="58" fill="#36D487" font-weight="800" text-anchor="start" class="">NONE</text>
+<text x="162" y="845" font-size="27" fill="#F6F8FB" font-weight="750" text-anchor="start" class="">NETWORK</text>
+<text x="162" y="900" font-size="24" fill="#A9B6C9" font-weight="500" text-anchor="start" class="">Docker network disabled</text>
+<rect x="860" y="690" width="660" height="260" rx="30" fill="#111D31" stroke="#243752" stroke-width="2"/>
+<text x="902" y="782" font-size="58" fill="#4CC2FF" font-weight="800" text-anchor="start" class="">4</text>
+<text x="902" y="845" font-size="27" fill="#F6F8FB" font-weight="750" text-anchor="start" class="">TOOLS</text>
+<text x="902" y="900" font-size="24" fill="#A9B6C9" font-weight="500" text-anchor="start" class="">clarify · process · terminal · todo</text>
+<rect x="1600" y="690" width="660" height="260" rx="30" fill="#111D31" stroke="#243752" stroke-width="2"/>
+<text x="1642" y="782" font-size="58" fill="#36D487" font-weight="800" text-anchor="start" class="">0</text>
+<text x="1642" y="845" font-size="27" fill="#F6F8FB" font-weight="750" text-anchor="start" class="">SKILLS</text>
+<text x="1642" y="900" font-size="24" fill="#A9B6C9" font-weight="500" text-anchor="start" class="">candidate sessions</text>
+<text x="120" y="1080" font-size="32" fill="#F6F8FB" font-weight="650" text-anchor="start" class="">Hidden verification remained controller-only; candidates received fresh isolated workspaces.</text>
+<text x="120" y="1130" font-size="29" fill="#A9B6C9" font-weight="500" text-anchor="start" class="">Results cover three tasks from one repository and should not be generalized beyond that scope.</text>
+<line x1="120" y1="1260" x2="2280" y2="1260" stroke="#263852" stroke-width="2"/>
+<text x="120" y="1308" font-size="25" fill="#A9B6C9" font-weight="400" text-anchor="start" class="">Local supervised benchmark · 3 tasks · 7 models · one attempt per model/task</text>
+<text x="2280" y="1308" font-size="25" fill="#A9B6C9" font-weight="600" text-anchor="end" class="">SocratBench Code v0.2</text>
+</svg>
